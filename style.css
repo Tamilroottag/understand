@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to left, blue,pink);
+    height: 100vh;
+    position: absolute;
+    background-size: cover;
+}
